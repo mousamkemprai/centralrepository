@@ -3,7 +3,7 @@ Git is very much inport tools for
 it helps develoer to build the
  software parellel way. so that
  the process is becomne faster
- now a days. In a very sort of
+ now a days. In a very short of
  period we deliver the products
  to customer.So basic knowledge
  of GIT is required
