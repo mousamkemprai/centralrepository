@@ -1,2 +1,8 @@
-this is my modify line
-namaste
+input1=int(input("Enter the number"))
+if input1>10:
+	if input1%2==0:
+		print("The input number is even and greater then ten")
+	else:
+		print("The input number is odd and greater then ten")
+else:
+	print("The input number is less then ten and it does't exist")
