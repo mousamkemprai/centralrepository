@@ -1,2 +1,9 @@
-Git is very much inport tools for software developer now a days.
-it helps develoer to build the software parellel way. so that the process is becomne faster now a days. In a very sort of period we deliver the products to customer.So basic knowledge of GIT is required
+Git is very much inport tools for
+ software developer now a days.
+it helps develoer to build the
+ software parellel way. so that
+ the process is becomne faster
+ now a days. In a very sort of
+ period we deliver the products
+ to customer.So basic knowledge
+ of GIT is required
